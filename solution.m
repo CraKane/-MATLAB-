@@ -1,4 +1,4 @@
-%% The Solution of Problem 4 
+%% The Solution of Problem 4
 %  Author: Matsuyama
 %  Time: 2019-09-25
 %
